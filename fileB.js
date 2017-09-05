@@ -3,4 +3,4 @@ B
 BBBBBB
 
 
-XC: Change the first time (1st amend)
+XC: Change the first time (1st amendED, 2nd amend from staging area, 3rd amend)
