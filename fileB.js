@@ -3,4 +3,4 @@ B
 BBBBBB
 
 
-XC: Change the first time (1st time)
+XC: Change the first time (1st time amend)
