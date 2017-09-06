@@ -3,7 +3,4 @@ This is (create conflict) file B
 BBBBBB
 
 
-XC: Change the first time (
-	1st amendED, 
-	change 2nd amend from staging area content
-)
+XC: Change the first time (1st amendED, 2nd amend from staging area)
