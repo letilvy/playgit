@@ -1,3 +1,3 @@
 This is file B
-B
+(create merge) B  
 BBBBBB
