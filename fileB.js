@@ -1,5 +1,5 @@
-This is file B
-(create merge) B  
+This is (create conflict line) file B
+  
 BBBBBB
 
 
