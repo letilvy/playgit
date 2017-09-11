@@ -1,4 +1,4 @@
-This not is (create conflict) file B
+This is (create conflict) file change -- B
   
 BBBBBB
 
