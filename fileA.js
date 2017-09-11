@@ -1,1 +1,1 @@
-This is (Create merge line) File A
+This is (Create conflict) File A

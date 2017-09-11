@@ -1,3 +1,3 @@
 This is file C
 
-CCCCC(create conflict)CCCCC
+CCCCC(create conflict line)CCCCC

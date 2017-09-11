@@ -1,4 +1,4 @@
-This is (create conflict line) file B
+This is (create conflict) file B
   
 BBBBBB
 
