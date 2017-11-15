@@ -1,3 +1,1 @@
-This is file C
-
-CCCCCCCCCC
+This is file (no conflict) C
