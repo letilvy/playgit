@@ -1,1 +1,1 @@
-This is (create conflict) file change -- B
+This is (create conflict) file change -- B - XC
